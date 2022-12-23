@@ -152,10 +152,28 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "functions_client",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/functions_client-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "get_it",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/get_it-7.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "glob",
       "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/glob-2.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.15"
+    },
+    {
+      "name": "gotrue",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/gotrue-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
     },
     {
       "name": "graphs",
@@ -164,16 +182,16 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "hive",
-      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/hive-2.2.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "hotreloader",
       "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/hotreloader-3.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/http-0.13.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
     },
     {
       "name": "http_methods",
@@ -222,6 +240,18 @@
       "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/json_serializable-6.5.4",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "jwt_decode",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/jwt_decode-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "logger",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/logger-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "logging",
@@ -278,6 +308,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "postgrest",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/postgrest-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "pub_semver",
       "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/pub_semver-2.1.3",
       "packageUri": "lib/",
@@ -288,6 +324,24 @@
       "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/pubspec_parse-1.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.14"
+    },
+    {
+      "name": "realtime_client",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/realtime_client-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "retry",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/retry-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/rxdart-0.27.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "shelf",
@@ -356,6 +410,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "storage_client",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/storage_client-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "stream_channel",
       "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.1",
       "packageUri": "lib/",
@@ -372,6 +432,12 @@
       "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
+    },
+    {
+      "name": "supabase",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/supabase-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
     },
     {
       "name": "term_glyph",
@@ -410,10 +476,10 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "very_good_analysis",
-      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/very_good_analysis-3.1.0",
+      "name": "universal_io",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/universal_io-2.0.4",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.12"
     },
     {
       "name": "vm_service",
@@ -446,13 +512,19 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "yet_another_json_isolate",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/yet_another_json_isolate-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "my_project",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2022-12-19T08:10:37.465265Z",
+  "generated": "2022-12-21T08:04:52.866613Z",
   "generator": "pub",
   "generatorVersion": "2.18.4"
 }

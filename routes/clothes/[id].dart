@@ -13,10 +13,9 @@ Future<Response> onRequest(RequestContext context, String id) async {
       try {
         final supaBase = GetIt.instance.get<SupabaseClient>();
         return await supaBase
-            .from('users')
+            .from('clothes')
             .select('*')
-            .filter('id', 'in', '(${id})')
-            .limit(1)
+            .eq('id', id)
             .maybeSingle()
             .then((value) {
           return Response.json(statusCode: HttpStatus.ok, body: {
@@ -24,7 +23,7 @@ Future<Response> onRequest(RequestContext context, String id) async {
             'data': value,
           });
         }).catchError(
-          (onError) {
+              (onError) {
             onError as PostgrestException;
             return Response.json(
               statusCode: HttpStatus.internalServerError,
