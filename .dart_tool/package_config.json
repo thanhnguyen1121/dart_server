@@ -26,6 +26,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "auth_header",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/auth_header-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.1",
       "packageUri": "lib/",
@@ -220,6 +226,12 @@
     {
       "name": "io",
       "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/io-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "jaguar_jwt",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dartlang.org/jaguar_jwt-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -524,7 +536,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2022-12-21T08:04:52.866613Z",
+  "generated": "2022-12-23T02:43:25.218042Z",
   "generator": "pub",
   "generatorVersion": "2.18.4"
 }
